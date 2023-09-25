@@ -3,7 +3,7 @@
 ## Description
 This repository contains a custom language file for Notepad++, a popular open-source code editor. This language file provides syntax highlighting and other language-specific features for a particular programming language or file format. 
 
-The UDL is for the scripting language of Eggplant functional 
+The UDL is for the scripting language of Eggplant Functional.
 
 ## Usage
 1. Download the language file (usually with a `.xml` extension) from this repository.
@@ -35,4 +35,6 @@ If you have any questions, suggestions, or issues related to this language file,
 It was my own choice to spent my private free time after work to create these notepad++ UDL files.
  
 Happy coding!
+
+All typos belong to ChatGPT
 
